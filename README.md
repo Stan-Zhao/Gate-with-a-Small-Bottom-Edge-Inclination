@@ -4,4 +4,4 @@
 
 ## Demo
 
-[![Watch Demo](docs/demo.gif)](demo.mov)
+[![Watch Demo](docs/demo.gif)](demo.mp4)
